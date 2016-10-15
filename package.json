@@ -1,0 +1,23 @@
+{
+  "name": "soundboxer",
+  "version": "0.0.0",
+  "description": "Soundbox generator",
+  "author": "Florent Dubois <florent.dubois@devaddict.io>",
+  "license": "MIT",
+  "keywords": [
+    "soundbox",
+    "generator"
+  ],
+  "homepage": "https://github.com/fldubois/soundboxer#readme",
+  "bugs": {
+    "url": "https://github.com/fldubois/soundboxer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fldubois/soundboxer.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
